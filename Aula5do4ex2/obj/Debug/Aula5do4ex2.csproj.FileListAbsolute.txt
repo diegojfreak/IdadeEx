@@ -1,0 +1,9 @@
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula5do4ex2\Aula5do4ex2\bin\Debug\Aula5do4ex2.exe.config
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula5do4ex2\Aula5do4ex2\bin\Debug\Aula5do4ex2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula5do4ex2\Aula5do4ex2\bin\Debug\Aula5do4ex2.pdb
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula5do4ex2\Aula5do4ex2\obj\Debug\Aula5do4ex2.frmCNH.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula5do4ex2\Aula5do4ex2\obj\Debug\Aula5do4ex2.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula5do4ex2\Aula5do4ex2\obj\Debug\Aula5do4ex2.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula5do4ex2\Aula5do4ex2\obj\Debug\Aula5do4ex2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula5do4ex2\Aula5do4ex2\obj\Debug\Aula5do4ex2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO1A5\Aula5do4ex2\Aula5do4ex2\obj\Debug\Aula5do4ex2.pdb
